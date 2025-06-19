@@ -7,7 +7,6 @@ public class Primzahlen {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Geben Sie eine Zahl ein: ");
         int n = scanner.nextInt();
-        scanner.close();
 
         System.out.println("Überprüfung für die Zahl " + n + ":");
 
