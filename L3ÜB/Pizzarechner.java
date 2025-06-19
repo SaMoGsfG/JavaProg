@@ -28,5 +28,6 @@ public class Pizzarechner {
         } else {
             System.out.println("Beide Pizzas haben das gleiche Preis-Leistungs-Verhältnis.");
         }
+        scanner.close();
     }
 }

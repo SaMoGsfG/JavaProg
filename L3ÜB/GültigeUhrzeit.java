@@ -27,5 +27,6 @@ public class GültigeUhrzeit {
         } else {
             System.out.println("Die Sekundenangabe ist ungültig.");  
         }
+        scanner.close();
     }
 }

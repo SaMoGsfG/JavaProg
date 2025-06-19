@@ -16,5 +16,6 @@ public class Matrikelnummer {
         }else{
             System.out.println("Die Matrikelnummer ist Ungültig");
         }
+        scanner.close();    
     }
  }

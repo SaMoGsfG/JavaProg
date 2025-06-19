@@ -14,6 +14,7 @@ public class FreierFall {
             double fallhoehe = 0.5 * g * i * i;
             System.out.printf("Zeit:" +i+ "Sekunden: Zurückgelegte Strecke:" + fallhoehe + " Metern\n");
         }
+        scanner.close();
     }
     
 }

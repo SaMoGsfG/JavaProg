@@ -29,7 +29,7 @@ public class Einzelzeichen {
         }
         if ( !gefunden) {
             System.out.println("Das Zeichen '" + zeichen + "' ist kein Großbuchstabe, keine Ziffer, keine Binärziffer und keine Oktalziffer.");
-        }
+        }scanner.close();
     }
     
 }

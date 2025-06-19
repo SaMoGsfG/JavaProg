@@ -13,6 +13,7 @@ public class Modulo {
         }else{
             System.out.println("ist nicht duch 7 teilbar");
         }
+        scanner.close();
     }
     
 }

@@ -22,6 +22,7 @@ public class Wahrheitstabelle {
         }else{  
             System.out.print("Ungültige Eingabe. Bitte geben Sie 't' für true oder 'f' für false ein.");
         }
+        scanner.close();
 }
 }
 
