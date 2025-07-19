@@ -3,7 +3,6 @@ package L12ÜB;
 import java.util.Arrays;
 
 public class Lottozahlen1 {
-
     public static void main(String[] args) {
 
         // Aufbau einer einfach verketten liste 
